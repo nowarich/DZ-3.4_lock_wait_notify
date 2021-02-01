@@ -2,7 +2,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class Main {
-    public static Object lock;
+//    public static Object lock;
     public static void main(String[] args) {
 
         ExecutorService executorService = Executors.newFixedThreadPool(3);
